@@ -1,0 +1,12 @@
+SOUNDS/custom,fc-rth.wav,Returning to home
+SOUNDS/custom,fc-angl.wav,angle mode
+SOUNDS/custom,fc-hor.wav,horizon mode
+SOUNDS/custom,fc-loit.wav,Loitering
+SOUNDS/custom,fc-trm.wav,auto trim on
+SOUNDS/custom,fc-tun.wav,auto tune on
+SOUNDS/custom,fc-arm.wav,armed
+SOUNDS/custom,fc-darm.wav,disarmed
+SOUNDS/custom,custom-hello.wav,it's a good day to fly
+SOUNDS/custom,rec-on.wav,recording on
+SOUNDS/custom,dataon.wav,data logging on
+SOUNDS/custom,fc-man.wav,manual mode
